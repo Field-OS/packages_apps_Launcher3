@@ -180,4 +180,8 @@
     <string name="single_page_center_title">Single page center</string>
     <string name="single_page_center_summary">Center wallpaper if only using a single page</string>
 
+    <!-- Smartspace -->
+    <string name="smartspace_pref_title">At a Glance</string>
+    <string name="smartspace_pref_summary">Show smartspace at the top of home screen</string>
+
 </resources>
